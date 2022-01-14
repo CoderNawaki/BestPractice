@@ -3,3 +3,9 @@ body{
     margin: 0 0 0 0;
     padding:0 0 0 0;
 }
+
+div{
+    height:max(90%,30px);
+    width:min(90%,20px);
+
+}
